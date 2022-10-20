@@ -1,68 +1,8 @@
-**AIR FORCE ROTC**
-
-**EDUCATION OFFICER GUIDE**
+ # Education Officer Guide**
 
 **CAO 23 SEP 22**
 
-**TABLE OF CONTENTS**
-
-**Overview**.........................................................................................................................................3
-
-**Survival Timeline**...........................................................................................................................3
-
-July – August.......................................................................................................................3
-
-August – September.............................................................................................................4
-
-October.................................................................................................................................5
-
-November.............................................................................................................................5
-
-December.............................................................................................................................5
-
-December – January.............................................................................................................5
-
-January.................................................................................................................................5
-
-March...................................................................................................................................6
-
-April.....................................................................................................................................6
-
-May......................................................................................................................................6
-
-June......................................................................................................................................6
-
-July.......................................................................................................................................6
-
-**Instructor Evaluations**...................................................................................................................7
-
-**APAS/Academic Instructor Course Out-of-Cycle Requirements**.............................................8
-
-**IST Sessions**....................................................................................................................................8
-
-**Faculty Development & Academic Enhancement**......................................................................9
-
-**Instructor Folders**..........................................................................................................................9
-
-**Master Instructor Badge**...............................................................................................................9
-
-**Textbook Management**................................................................................................................10
-
-**Syllabi**............................................................................................................................................10
-
-**Test Construction Evaluation**.....................................................................................................11
-
-**Gradebook Review**.......................................................................................................................12
-
-**Academic Freedom and Integrity Brief**.....................................................................................12
-
-**University Relations**.....................................................................................................................13
-
-**End of Term Surveys**...................................................................................................................13
-
-**Air and Space Studies Minor**......................................................................................................14
-
-**Overview**
+## Overview
 
 CongratulationsonbeingappointedtheEducation Officer!TheEducation Officer has aprogram that isprobablyoneofthemostdisregardedaspectsoftheinstructorduties.Ifyoudevelopaplanofattackearlyenough,thenthisdutycanbeoneoftheeasiesttomanage.Itisimperativeyouenlistthehelpoftheotherinstructorsinyourdetachment. Itisequallyimportantthedetachmentcommanderisonboardtosupportalloftheseeminglytediousandcumbersometasksassociatedwiththeseduties.
 
@@ -70,9 +10,9 @@ TheEOholdsthemostacademicallystructuredportionoftheROTCmission.Thisiswheretherew
 
 ThissurvivalguideisdesignedtooutlinemanyoftheEOduties.ThegoalistoprovideyouwitharoadmapthatwillhelpyounavigatethemanydifferentinstructionsandpoliciesinAFROTC.Thisguidedoesnotprovidestep-by-stepinstructions.Itisdesignedtodescribewhatyoudoandwheretofindtheproperreferences.You'llgetanideaonhowthingsarerunatanestablishedandprovendetachment,butjustasthereare145detachments,thereare145differentwaysofdoingthings.
 
-**SURVIVAL TIMELINE**
+## SURVIVAL TIMELINE
 
-**July – August**
+### July – August
 
 - Review instructor schedule for the fall semester.
   - Verify that every class has an instructor
@@ -100,22 +40,22 @@ ThissurvivalguideisdesignedtooutlinemanyoftheEOduties.Thegoalistoprovideyouwitha
   - Textbook Order
     - No physical textbooks are required. As all APAS/PAS instructors will use WINGS for curriculum guidance. DVDs with curriculum will also be provided every summer.
 
-**August – September**
+### August – September
 
 - Resolve registration issues. Cross-town students sometimes experience difficulty with the registration process. Make sure cadets are resolving problems when required.
 - Have cadets turn inform 48s shortly after school starts, recommended no more than 4 weeks. This helps cadre to ensure the cadet can be in the program and properly classify them.
 
-**October**
+### October
 
 - Wrap up fall term counseling (ensure cadre have completed sessions for all of their respective cadets).
 - AFROTC Form 48s (applies to all instructors)
   - Ensure ALL cadets have a completed AFROTC Form 48 on file, especially any contract cadets. Verify Date of Commission (DOC)/Date of Graduation (DOG) through the Student Management Roster (SMR) & their SURF.
 
-**November**
+### November
 
 - Prepare syllabi for next semester and ensure instructors have begun theirs to turn in to the EO for review
 
-**December**
+### December
 
 - Transcripts
   - Request/obtain from all universities and/or cadets. Recommend having a google drive folder for cadets to drop their crosstown transcripts.
@@ -126,28 +66,28 @@ ThissurvivalguideisdesignedtooutlinemanyoftheEOduties.Thegoalistoprovideyouwitha
 - Textbook Order
 - Review End-of-Term Surveys and compile data for each instructor. Each instructor should be reviewing their own, while EO should present it as whole for future best practices.
 
-**December – January**
+### December – January
 
 - Conduct review of instructor exams, gradebooks and upcoming spring term syllabi
 - Conduct records review (may not be EFC duty; really up to detachment on when and how often)
   - Pay close attention that Form 16s for each term for each cadet are signed. Verify AFROTC Form 48s are filled out correctly. Ensure all transcripts are on file. Check for any CEs that should have been issued.
   - May want to incorporate record reviews with IST so cadre can focus on certain areas of the cadet record each month versus reviewing each in its entirety.
 
-**January**
+### January
 
 - Complete July through September actions (as necessary).
 
-**March**
+### March
 
 - Recommend conducting instructor evaluations, if not completed already (must be completed once per semester)
   - Wrap up spring term counseling (ensure cadre have completed sessions for all of their respective cadets).
 
-**April**
+### April
 
 - Summer Classes
   - The Detachment Commander may schedule summer AFROTC classes including tutorial classes/independent study when circumstances prevent students from enrolling in courses during the regular term (i.e. study abroad). Attendance records must be maintained and documentation must be retained to clearly demonstrate how the appropriate AS lesson objectives were presented.
 
-**May**
+### May
 
 - Transcript
   - Request from all universities (except Quarter Schools) & crosstown cadets as needed
@@ -158,13 +98,13 @@ ThissurvivalguideisdesignedtooutlinemanyoftheEOduties.Thegoalistoprovideyouwitha
 - Conduct review of instructor exams and gradebooks
 - Review End-of-Term Surveys and compile data for each instructor. Prepare to present findings at a gathering such as staff meeting.
 
-**June**
+### June
 
 - Conduct records review (not solely EO duty)
   - Pay close attention that there are AFROTC Form 16s for each term for each cadet. Verify AFROTC Form 48s are filled out correctly. Ensure all transcripts are on file. Check for any CEs that should have been issued.
   - May want to incorporate record reviews with IST so cadre can focus on certain areas of the cadet record each month versus reviewing each in its entirety
 
-**July**
+### July
 
 - Recommend uniformed members complete ancillary annual training during the summer to free time during the school year.
 - Ensure all cadre are up-to-date on PTL-B & CPR training prior to school start.
@@ -172,7 +112,7 @@ ThissurvivalguideisdesignedtooutlinemanyoftheEOduties.Thegoalistoprovideyouwitha
   - Because this is a checklist item, the best way to show you have accomplished this is to draft a memo containing the host university's policy (do not worry about policies of cross-towns) and have the Detachment Commander sign it. Place it in your continuity binder.
   - Be sure to brief other cadre on these policies.
 
-**INSTRUCTOR EVALUATIONS**
+## **INSTRUCTOR EVALUATIONS**
 
 The EO is responsible for making sure the Detachment Commander and all APASs (including the EO) are evaluated each academic year for teaching effectiveness and are documented on the AETC Form 13. The EO will ensure all cadre instructors are evaluated by the EO or another certified instructor. If the Detachment Commander is the EO, he or she will be evaluated by any qualified instructor in the detachment as directed by the Detachment Commander. Reference AFROTC 36-2011, Cadet Operations and HOLMCENTERI 36-2601, Faculty Development and Master Instructor Programs, for more information.
 
@@ -187,14 +127,14 @@ The EO is responsible for making sure the Detachment Commander and all APASs (in
   - Invite SAV team members to conduct an evaluation of one of the APASs if possible.
   - If your school has an office dedicated to building better professors (i.e. Center for Teaching Excellence), invite one of their staff to evaluate the class.
 
-**APAS / ACADEMIC INSTRUCTOR COURSE OUT-OF-CYCLE REQUIREMENTS**
+## APAS / ACADEMIC INSTRUCTOR COURSE OUT-OF-CYCLE REQUIREMENTS
 
 IAW AFROTCI 36-2011, Cadet Operations, the EO will ensure new instructors who did not attend either the Academic Instructor Course (AIC) or the Detachment Commander Course are familiar with AFROTC educational principles and policies presented during the most recent summer's program. Use handouts from a recent attendee or contact Holm Center/CR for student materials. Document training and retain in the Instructor Folder until the instructor attends the appropriate course, receives a waiver, or is reassigned. The instructor is authorized to instruct only in the presence of a certified instructor.
 
 - Use the Mission Qualification Training to include some topics such as: Operating Instructions, Foundations of Teaching, Teaching Techniques, Evaluation, HQ Holm Center Information, and HQ ROTC and Unit Information.
 - Refer to HOLMCENTERI 36-2601 for information on who is eligible for an AIC waiver and paragraph 2.4 for an AIC deferral and how to submit the request. If an instructor has a waiver or deferral, make sure a copy is in their instructor folder in place of the AIC certificate.
 
-**IST SESSIONS**
+## IST SESSIONS
 
 TheEOisresponsibleforthedetachmentISTprogramandwilldetermine,schedule,anddocumentallISTs per AFROTC policy.YouwillfindslideshowpresentationsontheTEAMS in areas such as:
 
@@ -208,7 +148,7 @@ TheEOisresponsibleforthedetachmentISTprogramandwilldetermine,schedule,anddocumen
 - Tips
   - You may want to incorporate record reviews with IST so cadre can focus on certain areas of the cadet record each month versus reviewing each in its entirety.
 
-**FACULTY DEVELOPMENT & ACADEMIC ENHANCEMENT (Faculty Enrichment Section, University Sponsored Faculty Development**
+## FACULTY DEVELOPMENT & ACADEMIC ENHANCEMENT (Faculty Enrichment Section, University Sponsored Faculty Development
 
 At each college and university, there are a myriad of resources available to faculty members. To the maximum extent possible, the EO must seek out and provide ways to enhance and enrich the development of all instructors and their courses. Ideas are shown below
 
@@ -216,7 +156,7 @@ At each college and university, there are a myriad of resources available to fac
 - Work with the faculty development office. Invite members of the office for a brown bag lunch to pick their brains for information.
 - Speak to your school's distance learning/on-line course administrators to learn more about ways to enhance your classroom.
 
-**INSTRUCTOR FOLDERS**
+## INSTRUCTOR FOLDERS
 
 IAW HOLMCENTERI 36-2601, the EO will file instructor training and evaluation folders, to include AETC Form 13s, in the Instructor Training Folder/binder as applicable. Recommend using a six part folder to maintain documents.
 
@@ -226,14 +166,14 @@ IAW HOLMCENTERI 36-2601, the EO will file instructor training and evaluation fol
 - Tips
   - Recommend you also maintain the syllabi, exams, IST attendance, grade books, EOT surveys, training certificates, etc. in this folder as well as the standard maintenance location.
 
-**MASTER INSTRUCTOR BADGE**
+## MASTER INSTRUCTOR BADGE
 
 IAWHOLMCENTERI36-2601,Chapter8,theMasterInstructorProgramisdesignedtorewardinstructorsorinstructorsupervisors,militaryandcivilian,whohavedevelopedthemselvesbeyondthenormalrequirementsofaninstructoranddisplayexemplaryinstructionalperformance.Thecriteriaforachievingmasterinstructorareacombinationofteachingexperience,anacademicdegree,continuingeducation,professionalprojects,instructorawards,andteachingevaluations.SeeChapter8fordetailsonhowtocomplete.
 
 - Tips
   - Brief requirements so instructors know what the program entails. It is a comprehensive process and cannot be completed in a few months. Make sure any instructor who wants to earn the badge starts early! Consider building a checklist to give to instructors interested in completing the program.
 
-**TEXTBOOK MANAGEMENT**
+## TEXTBOOK MANAGEMENT
 
 As the EO, you are responsible to ensure all instructors have all required educational materials prior to the start of each semester. Even with e-curriculum, there are certain educational materials that the EO can order through WINGS. When you receive shipments of educational materials, you will need to acknowledge receipt of the materials in the WINGS inventory system. (NOTE: There are no DVDs available to replace Master DVDs previously shipped)
 
@@ -243,7 +183,7 @@ As the EO, you are responsible to ensure all instructors have all required educa
 - Tips
   - Recommend having instructors or EO hold onto DVDs at the beginning of each term.
 
-**SYLLABI**
+## YLLABI
 
 TheEOisrequiredtoreviewthesyllabusforeachinstructoreachterm.AFROTCI36-2010, _Cadet Training Programs_,outlinestheitemsrequiredtobeinthesyllabusbyAFROTC.Thehostinstitutionmayhavesyllabusrequirementsaswell,sobesuretocheckforthosetoo.AFROTCrequirementsinclude:
 
@@ -261,7 +201,7 @@ TheEOisrequiredtoreviewthesyllabusforeachinstructoreachterm.AFROTCI36-2010, _Cad
   - You can also include the following information: office hours, exam information, writing assignments, homework assignments, lesson descriptions, briefing criteria, and virtually anything that you deem will make your classroom setting clear.
   - Syllabi must be posted for all cadet and students/participants to view, as this is a checklist item.
 
-**TEST CONSTRUCTION EVALUATION**
+## TEST CONSTRUCTION EVALUATION
 
 Each instructor will write his/her own exams. They can select questions from the test bank provided or they can write their own questions. The EO is required to review one exam from each instructor per semester. When reviewing the exams, it is important to check that each instructor uses the stated lesson objectives and samples of behavior as a guide. When writing out each question, the instructor should align the structure and response so it matches the stated objective of that particular lesson.
 
@@ -270,7 +210,7 @@ Each instructor will write his/her own exams. They can select questions from the
 - Tips
   - Store reviewed exams and master copies of each exam in the respective instructor's folder.
 
-**GRADE BOOK REVIEW**
+## GRADE BOOK REVIEW
 
 These are AFROTC requirements for your grade book. Please check with your college or university to ensure that you are also compliant with its overarching guidance.
 
@@ -280,7 +220,7 @@ These are AFROTC requirements for your grade book. Please check with your colleg
 - Check that students who did not meet the attendance standard received a failing grade.
 - Check that students who received an "Incomplete" in their AS class or LLAB received the "I" in compliance with host university policy and ensure it is resolved NLT the end of the following term.
 
-**ACADEMIC FREEDOM AND INTEGRITY BRIEF**
+## ACADEMIC FREEDOM AND INTEGRITY BRIEF
 
 IAW AFROTCI 36-2011, ensure all students, staff, and guest speakers are briefed and informed at the beginning of each academic term on Air University's policy regarding Academic Freedom and Academic Integrity. Source documents are AUI 36-2308, Academic Freedom, and AUI 36-2309, Academic Integrity. Briefing materials can be found on [www.holmcenter.com](http://www.holmcenter.com/).
 
@@ -291,7 +231,7 @@ IAW AFROTCI 36-2011, ensure all students, staff, and guest speakers are briefed 
 - Documentation
   - Document that briefing was given and retain documentation for one year following the briefing.
 
-**UNIVERSITY RELATIONS**
+## UNIVERSITY RELATIONS
 
 IAW AFROTCI 36-2011, the EO must ensure that course descriptions in catalogs of host institutions and affiliated school campuses are included when practical. That includes all AS Courses and LLAB. Each year, the Holm Center curriculum department will update the curriculum program and post the document on their homepage in a PDF document. This document includes the descriptions for each AS and LLAB.
 
@@ -305,7 +245,7 @@ IAW AFROTCI 36-2011, the EO must ensure that course descriptions in catalogs of 
     - Even if you miss the deadline to get the paper copy of the course catalog updated, most schools can continually update their electronic version at any time.
     - HQ AFROTC developed a standardized paragraph to send to all crosstown schools which links the course descriptions to the host university online catalog, making this process much easier.
 
-**END OF TERM SURVEYS**
+## END OF TERM SURVEYS
 
 The EO is responsible to ensure surveys are conducted as determined by the detachment and/or HQ AFROTC. Even though surveys are optional, instructors need to encourage cadets to complete them so the necessary changes can be made to the curriculum, teaching method/style, etc. EOT surveys include:
 
@@ -318,7 +258,7 @@ The EO is responsible to ensure surveys are conducted as determined by the detac
 - Tips
   - Consider also having a survey of your New Student Orientation. There are many websites that run free survey services, such as [www.surveymonkey.com](http://www.surveymonkey.com/).
 
-**AIR AND SPACE STUDIES MINOR**
+## AIR AND SPACE STUDIES MINOR
 
 If a minor program already exists at your institution, GREAT! Hopefully there is plenty of documentation from the previous EO on managing the program, although it may not be a direct EO function at some dets. Many admin assistants have direct roles in granting the minor with the institution, if already established. If not, your host institution will have documentation of the program and will give you directions on how to be an advisor of a minor program. Typically when a school has a minor program it is open to all students, not just cadets.
 
