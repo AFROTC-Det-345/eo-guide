@@ -1,14 +1,12 @@
- # Education Officer Guide**
-
+# Education Officer Guide
 **CAO 23 SEP 22**
 
 ## Overview
+Congratulations on being appointed the Education Officer! The Education Officer has a program that is probably one of the most disregarded aspects of the instructor duties. If you develop a plan of attack early enough, then this duty can be one of the easiest to manage. It is imperative you enlist the help of the other instructors in your detachment. It is equally important the detachment commander is on board to support all of the seemingly tedious and cumbersome tasks associated with these duties.  
 
-CongratulationsonbeingappointedtheEducation Officer!TheEducation Officer has aprogram that isprobablyoneofthemostdisregardedaspectsoftheinstructorduties.Ifyoudevelopaplanofattackearlyenough,thenthisdutycanbeoneoftheeasiesttomanage.Itisimperativeyouenlistthehelpoftheotherinstructorsinyourdetachment. Itisequallyimportantthedetachmentcommanderisonboardtosupportalloftheseeminglytediousandcumbersometasksassociatedwiththeseduties.
+The EO holds the most academically structured portion of the ROTC mission. This is where the rewards of mentoring and development of future officers happens. If you are the EO, share this exciting opportunity with the other members of the cadre!
 
-TheEOholdsthemostacademicallystructuredportionoftheROTCmission.Thisiswheretherewardsofmentoringanddevelopmentoffutureofficershappens.IfyouaretheEO,sharethisexcitingopportunitywiththeothermembersofthecadre!
-
-ThissurvivalguideisdesignedtooutlinemanyoftheEOduties.ThegoalistoprovideyouwitharoadmapthatwillhelpyounavigatethemanydifferentinstructionsandpoliciesinAFROTC.Thisguidedoesnotprovidestep-by-stepinstructions.Itisdesignedtodescribewhatyoudoandwheretofindtheproperreferences.You'llgetanideaonhowthingsarerunatanestablishedandprovendetachment,butjustasthereare145detachments,thereare145differentwaysofdoingthings.
+This survival guide is designed to outline many of the EO duties. The goal is to provide you with a roadmap that will help you navigate the many different instructions and policies in AFROTC. This guide does not provide step-by-step instructions. It is designed to describe what you do and where to find the proper references. You'll get an idea on how things are run at an established and proven detachment, but just as there are 145 detachments, there are 145 different ways of doing things.  
 
 ## SURVIVAL TIMELINE
 
@@ -112,7 +110,7 @@ ThissurvivalguideisdesignedtooutlinemanyoftheEOduties.Thegoalistoprovideyouwitha
   - Because this is a checklist item, the best way to show you have accomplished this is to draft a memo containing the host university's policy (do not worry about policies of cross-towns) and have the Detachment Commander sign it. Place it in your continuity binder.
   - Be sure to brief other cadre on these policies.
 
-## **INSTRUCTOR EVALUATIONS**
+## INSTRUCTOR EVALUATIONS
 
 The EO is responsible for making sure the Detachment Commander and all APASs (including the EO) are evaluated each academic year for teaching effectiveness and are documented on the AETC Form 13. The EO will ensure all cadre instructors are evaluated by the EO or another certified instructor. If the Detachment Commander is the EO, he or she will be evaluated by any qualified instructor in the detachment as directed by the Detachment Commander. Reference AFROTC 36-2011, Cadet Operations and HOLMCENTERI 36-2601, Faculty Development and Master Instructor Programs, for more information.
 
